@@ -1,3 +1,3 @@
-# Lab 2 - Starter
+# Lab 3
 
-[Link](https://kiyo5hi.github.io/CSE-110-lab2/) to deployment
+[Link](https://kiyo5hi.github.io/sp23-cse110-lab3/) to deployment
